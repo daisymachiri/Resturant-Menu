@@ -289,18 +289,18 @@ nav {
 }
 
 .banner__card:nth-child(1) .banner__icon {
-  background-color: #62b15c;
-  box-shadow: 5px 5px 30px #62b15cd0;
+  background-color: #dae26a;
+  box-shadow: 5px 5px 30px #daf75ad0;
 }
 
 .banner__card:nth-child(2) .banner__icon {
-  background-color: #ff3e67;
-  box-shadow: 5px 5px 30px #ff3e67d0;
+  background-color: #3ef9ff;
+  box-shadow: 5px 5px 30px #3ef2ffd0;
 }
 
 .banner__card:nth-child(3) .banner__icon {
-  background-color: #185adb;
-  box-shadow: 5px 5px 30px #185adbd0;
+  background-color: #8d5d99;
+  box-shadow: 5px 5px 30px #a261ced0;
 }
 
 .banner__card h4 {
@@ -350,8 +350,8 @@ nav {
   margin-inline: auto;
   padding: 3rem 1rem;
   overflow: hidden;
-  border: 2px solid rgba(252, 127, 9, 0.5);
-  box-shadow: 5px 5px 30px rgba(252, 127, 9, 0.2);
+  border: 2px solid rgba(252, 252, 252, 0.5);
+  box-shadow: 5px 5px 30px rgba(247, 146, 52, 0.2);
   border-radius: 3rem;
 }
 
